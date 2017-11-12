@@ -1,0 +1,63 @@
+A flock of crows are known as murders
+True
+False
+
+In Uganda, about 50% of population is under 30 years old
+True
+False
+
+Recycling 1 glass jar can save energy to watch 5 hours of TV
+True
+False
+
+Bin Laden died 66 years after Hitler's death
+True
+False
+
+The Twitter bird's name is Larry
+True
+False
+
+In the Sahara desert, it never snowed in written history
+True
+False
+
+Snowman burning day is on Feb 14th
+True
+False
+
+Koran sold more books than the Bible during the 19th and 20th century
+True
+False
+
+Pigs often look up to see any dangers
+True
+False
+
+Money notes are composed mostly with a blend of cotton and linen
+True
+False
+
+Camel's humps are composed of fat
+True
+False
+
+Plutonium is the first artificial element in the periodic table
+True
+False
+
+In Australia, there was an Emu war, where the humans lost
+True
+False
+
+Every animal on Earth right now is known to get cancer
+True
+False
+
+Most jellyfish species die when the water is not salty
+True
+False
+
+The 57 on Heinz ketchup bottle represents the number of tomatoes used
+True
+False
